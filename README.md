@@ -29,6 +29,10 @@
 - ✅ **Data Analysis – Meta (Coursera Professional Certificate)**  
 - ✅ **Generative AI Fundamentals – IBM**
 
+- 📖 Currently learning:  
+  - Generative AI  
+  - Cloud Computing & DevOps 
+
 ---
 
 ## 📂 Featured Projects
