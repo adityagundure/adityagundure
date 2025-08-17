@@ -28,6 +28,10 @@
 - ✅ **Data Analysis – Meta (Coursera Professional Certificate)**  
 - ✅ **Generative AI Fundamentals – IBM**
 
+- - 🏅 **Google Cloud Skill Badges**  
+  - Gemini for Data Scientists and Analysts  
+  - Using BigQuery Machine Learning for Inference
+
 - 📖 Currently learning:  
   - Generative AI  
   - Cloud Computing & DevOps 
