@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi there 👋, I'm Aditya Gundure  
+# Hi there 👋, I'm Adi Gundure  
 
 💡 Passionate about **Data Analysis | Machine Learning | Generative AI | Cloud Computing | DevOps**  
 🚀 Constantly learning and building projects to solve real-world problems.  
