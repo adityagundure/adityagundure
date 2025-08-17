@@ -51,8 +51,8 @@ Stay tuned for projects on **Data Analysis, Machine Learning, and Generative AI.
 
 ## 🌐 Connect with Me  
 
-- [LinkedIn](https://www.linkedin.com/in/aditya-gundure)  
-- [GitHub](https://github.com/Aditya-Gundure)  
+- [LinkedIn](https://www.linkedin.com/in/aditya-gundure-b5b969259/)  
+- [GitHub](https://github.com/adi3900)  
 
 ✨ *Always open to collaboration and learning opportunities!*  
 
