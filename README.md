@@ -23,11 +23,11 @@
 
 - ✅ **TCS iON Career Edge – Young Professional**  
 - ✅ **Master Data Management for Beginners (TCS iON)**  
-- 📖 Currently learning:  
-  - SQL (basic → advanced)  
-  - Data Visualization  
-  - Machine Learning & Generative AI  
-  - Cloud Computing & DevOps  
+- ✅ **Python for Everybody – NPTEL**  
+- ✅ **SQL for Data Science – UC Davis (Coursera Specialization)**  
+- ✅ **Machine Learning – Stanford University (Coursera Specialization)**  
+- ✅ **Data Analysis – Meta (Coursera Professional Certificate)**  
+- ✅ **Generative AI Fundamentals – IBM**
 
 ---
 
