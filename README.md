@@ -43,8 +43,8 @@ Stay tuned for projects on **Data Analysis, Machine Learning, and Generative AI.
 
 ## 📊 GitHub Stats
 
-![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Gundure&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Gundure&layout=compact&theme=radical)  
+![Adi's GitHub Stats]()  
+![Top Languages]()  
 
 ---
 
