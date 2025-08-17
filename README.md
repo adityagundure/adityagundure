@@ -53,7 +53,7 @@ Stay tuned for projects on **Data Analysis, Machine Learning, and Generative AI.
 ---
 
 ## 🌐 Connect with Me  
-
+- 📧 Email: **adityagundure390@gmail.com**  
 - [LinkedIn](https://www.linkedin.com/in/aditya-gundure-b5b969259/)  
 - [GitHub](https://github.com/adi3900)  
 
