@@ -21,9 +21,9 @@
 ## 📚 Certifications & Learning Journey
 
 - ✅ **Python for Everybody – NPTEL**  
-- ✅ **SQL for Data Science – UC Davis (Coursera Specialization)**  
-- ✅ **Machine Learning – Stanford University (Coursera Specialization)**  
-- ✅ **Data Analysis – Meta (Coursera Professional Certificate)**  
+- ✅ **SQL for Data Science – UC Davis (Coursera Specialization)**
+- ✅ **Data Analysis – Meta (Coursera Professional Certificate)**
+- ✅ **Machine Learning – Stanford University (Coursera Specialization)**    
 - ✅ **Generative AI Fundamentals – IBM**
 - ✅ **TCS iON Career Edge – Young Professional**  
 - ✅ **Master Data Management for Beginners (TCS iON)**  
