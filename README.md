@@ -20,13 +20,13 @@
 
 ## 📚 Certifications & Learning Journey
 
-- ✅ **TCS iON Career Edge – Young Professional**  
-- ✅ **Master Data Management for Beginners (TCS iON)**  
 - ✅ **Python for Everybody – NPTEL**  
 - ✅ **SQL for Data Science – UC Davis (Coursera Specialization)**  
 - ✅ **Machine Learning – Stanford University (Coursera Specialization)**  
 - ✅ **Data Analysis – Meta (Coursera Professional Certificate)**  
 - ✅ **Generative AI Fundamentals – IBM**
+- ✅ **TCS iON Career Edge – Young Professional**  
+- ✅ **Master Data Management for Beginners (TCS iON)**  
 
 - - 🏅 **Google Cloud Skill Badges**  
   - Gemini for Data Scientists and Analysts  
