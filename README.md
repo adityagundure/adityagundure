@@ -36,14 +36,7 @@
   - Generative AI  
   - Cloud Computing & DevOps 
 
----
 
-## 📂 Featured Projects
-
-🚧 *Work in Progress – Adding soon!*  
-Stay tuned for projects on **Data Analysis, Machine Learning, and Generative AI.**
-
----
 
 ## 📊 GitHub Stats
 
