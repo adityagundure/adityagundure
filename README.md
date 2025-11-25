@@ -19,6 +19,17 @@
 - **Other Skills**: Problem-Solving, Critical Thinking  
 
 ---
+---
+
+## 📬 Connect with Me  
+
+- **Email:** [adityagundure390@gmail.com](mailto:adityagundure390@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/aditya](https://www.linkedin.com/in/aditya-gundure-b5b969259/)  
+- **GitHub:** [github.com/https:/adityagundure](https://github.com/adityagundure)  
+- **Portfolio:** [Website]()  
+
+---
+⭐️ *Always open to collaborations in ML, GenAI, and supply chain AI applications!*  
 
 
 
