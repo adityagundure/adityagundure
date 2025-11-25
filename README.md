@@ -7,14 +7,14 @@
 
 ---
 
-## 🔧 Skills & Tools
+## 🔧 🛠️ Technical Skills
 
-- **Programming & Data**: Python, SQL, Pandas, NumPy, Excel  
-- **Data Visualization**: Matplotlib, Seaborn, Power BI (learning), Tableau (learning)  
-- **Machine Learning**: Regression, Classification, Supervised Learning, Ensemble Methods  
-- **Generative AI**: Prompt Engineering, LLM Applications, AI Tools  
-- **Cloud & DevOps**: Azure, AWS (beginner), Docker, Git/GitHub, CI/CD basics  
-- **Other Skills**: Problem-Solving, Critical Thinking  
+Languages: Python, SQL, NoSQL, Postgres
+Frameworks: PyTorch, TensorFlow, Scikit-learn, LangChain, Spark
+MLOps & Tools: Airflow, Docker, Kubernetes, MLflow, GitHub Actions
+Specialties: LLM Fine-Tuning, Prompt Engineering, RAG, Vector DBs, Quantization
+Cloud & Big Data: AWS, Snowflake, Kafka, RAPIDS
+Other Skills**: Problem-Solving, Critical Thinking  
 
 ---
 
